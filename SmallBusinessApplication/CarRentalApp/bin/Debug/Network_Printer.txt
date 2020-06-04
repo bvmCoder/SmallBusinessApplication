@@ -1,0 +1,209 @@
+Customer Information ............
+ID Number = 33333
+Name = weadas
+Social Security Number = 23241123
+ Date of Birth = 12/23/2020
+Age = -1
+Address = asdaas
+Phone Number = 56343a
+Phone Number = sadasfaf
+
+
+Customer Information ............
+ID Number = 12312
+Name = Mohammad
+Social Security Number = 215546346235
+ Date of Birth = 10/10/1994
+Age = 25
+Address = 3erqwrjqjrqjf
+Phone Number = ddqwfwqf
+Phone Number = fweetwtw
+
+
+Customer Information ............
+ID Number = 12312
+Name = Mohammad
+Social Security Number = 215546346235
+ Date of Birth = 10/10/1994
+Age = 25
+Address = 3erqwrjqjrqjf
+Phone Number = ddqwfwqf
+Phone Number = fweetwtw
+
+
+Customer Information ............
+ID Number = 2244
+Name = Mohammad
+Social Security Number = 124353134
+ Date of Birth = 01/12/1992
+Age = 28
+Address = 21313 steer
+Phone Number = 213214332
+Phone Number = dsfsdf@mail.com
+
+
+Customer Information ............
+ID Number = 12312
+Name = Mohammad
+Social Security Number = 215546346235
+ Date of Birth = 10/10/1994
+Age = 25
+Address = 3erqwrjqjrqjf
+Phone Number = ddqwfwqf
+Phone Number = fweetwtw
+
+
+Customer Information ............
+ID Number = 12312
+Name = Jon David
+Social Security Number = 123313442
+ Date of Birth = 03/12/2002
+Age = 18
+Address = 123 street manhattan NY 12322
+Phone Number = 224452151
+Phone Number = sfsfsf@mail.com
+
+
+Customer Information ............
+ID Number = 2222
+Name = Kahn Kamal
+Social Security Number = 239-43-2413
+ Date of Birth = 01/23/1990
+Age = 30
+Address = 123th street Astoria
+Phone Number = 4232545431
+Phone Number = kahan@mail.com
+
+
+Customer Information ............
+ID Number = 12312
+Name = Mohammad
+Social Security Number = 215546346235
+ Date of Birth = 10/10/1994
+Age = 25
+Address = 3erqwrjqjrqjf
+Phone Number = ddqwfwqf
+Phone Number = fweetwtw
+
+
+Customer Information ............
+ID Number = 12312
+Name = Jon David
+Social Security Number = 123313442
+ Date of Birth = 03/12/2002
+Age = 18
+Address = 123 street manhattan NY 12322
+Phone Number = 224452151
+Phone Number = sfsfsf@mail.com
+
+
+Customer Information ............
+ID Number = 2222
+Name = Kahn Kamal
+Social Security Number = 239-43-2413
+ Date of Birth = 01/23/1990
+Age = 30
+Address = 123th street Astoria
+Phone Number = 4232545431
+Phone Number = kahan@mail.com
+
+
+Customer Information ............
+ID Number = 12312
+Name = Mohammad
+Social Security Number = 215546346235
+ Date of Birth = 10/10/1994
+Age = 25
+Address = 3erqwrjqjrqjf
+Phone Number = ddqwfwqf
+Phone Number = fweetwtw
+
+
+Customer Information ............
+ID Number = 12312
+Name = Jon David
+Social Security Number = 123313442
+ Date of Birth = 03/12/2002
+Age = 18
+Address = 123 street manhattan NY 12322
+Phone Number = 224452151
+Phone Number = sfsfsf@mail.com
+
+
+Customer Information ............
+ID Number = 2222
+Name = Kahn Kamal
+Social Security Number = 239-43-2413
+ Date of Birth = 01/23/1990
+Age = 30
+Address = 123th street Astoria
+Phone Number = 4232545431
+Phone Number = kahan@mail.com
+
+
+Customer Information ............
+ID Number = 2222
+Name = Kahn Kamal
+Social Security Number = 239-43-2413
+ Date of Birth = 01/23/1990
+Age = 30
+Address = 123th street Astoria
+Phone Number = 4232545431
+Phone Number = kahan@mail.com
+
+
+Customer Information ............
+ID Number = 2222
+Name = Kahn Kamal
+Social Security Number = 239-43-2413
+ Date of Birth = 01/23/1990
+Age = 30
+Address = 123th street Astoria
+Phone Number = 4232545431
+Phone Number = kahan@mail.com
+
+
+Customer Information ............
+ID Number = 12312
+Name = Mohammad
+Social Security Number = 215546346235
+ Date of Birth = 10/10/1994
+Age = 25
+Address = 3erqwrjqjrqjf
+Phone Number = ddqwfwqf
+Phone Number = fweetwtw
+
+
+Customer Information ............
+ID Number = 2222
+Name = Kahn Kamal
+Social Security Number = 239-43-2413
+ Date of Birth = 01/23/1990
+Age = 30
+Address = 123th street Astoria
+Phone Number = 4232545431
+Phone Number = kahan@mail.com
+
+
+Customer Information ............
+ID Number = 2222
+Name = Kahn Kamal
+Social Security Number = 239-43-2413
+ Date of Birth = 01/23/1990
+Age = 30
+Address = 123th street Astoria
+Phone Number = 4232545431
+Phone Number = kahan@mail.com
+
+
+Customer Information ............
+ID Number = 12312
+Name = Mohammad
+Social Security Number = 215546346235
+ Date of Birth = 10/10/1994
+Age = 25
+Address = 3erqwrjqjrqjf
+Phone Number = ddqwfwqf
+Phone Number = fweetwtw
+
+
